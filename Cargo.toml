@@ -1,0 +1,3 @@
+[workspace]
+members = ["bin/fsh", "bin/fshd", "bin/fcp", "crates/fsh-core"]
+resolver = "2"
